@@ -1,6 +1,5 @@
 # Dutchman Downs Snack Shack Menu
 
-
 **Drinks**
 
 | item                | price |
@@ -33,13 +32,15 @@
 
 All proceeds go to the Dutchman Downs Pool
 
+<img class="logo" src="/menu/assets/images/dolphin_noyear.png" alt="Dutchman Downs Pool">
+
 <span class="qrcontainer">
     <span class="qrcode qrmenu">
-        ![menu](qrmenu.png)
+        ![menu](/menu/assets/images/qrmenu.png)
         <span class="qrlabel">Scan for menu</span>
     </span>
     <span class="qrcode qrpay">
-        ![pay](qrpay.png)
+        ![pay](/menu/assets/images/qrpay.png)
         <span class="qrlabel">Scan to pay</span>
     </span>
 </span>

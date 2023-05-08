@@ -1,6 +1,49 @@
 ---
 ---
 
+body {
+  text-align: center;
+}
+
+
+.logo {
+  page-break-before: always;
+  width:50%;
+}
+
+table {
+    width: 50% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+table td {
+    border: 0px !important;
+}
+
+table th {
+    display: none;
+}
+
+table td:first-of-type {
+    text-align: left;
+    width: 100%;
+}
+
+table td:nth-of-type(2) {
+    text-align: right;
+}
+
+.qrcode {
+    border: 2px solid black;
+    display:inline-grid;
+}
+
+.qrlabel {
+    text-align: center;
+    margin-bottom: 1em !important;
+}
+
 @media screen {
     .qrcontainer {
         display: grid !important;
@@ -16,6 +59,15 @@
     }
 }
 
+@media only screen and (max-width:400px) {
+  .logo {
+    width:100%;
+  }
+  table {
+      width: 100% !important;
+  }
+}
+
 @media print {
     @page {
         margin: 0px
@@ -27,68 +79,22 @@
     .qrcontainer {
         width: 100% !important;
         display: block;
+        text-align: center;
     }
     .qrcontainer a {
         color: black;
     }
     .qrmenu {
-        margin-left: 8em;
+        margin: 4em;
     }
     .qrpay {
-        float: right;
-        margin-right: 8em;
+        margin: 4em;
+    }
+    .logo {
+      margin-top: 4em;
     }
 }
 
-body {
-  text-align: center;
-}
-
-h1 {
-  text-align: center;
-}
-
-table {
-    width: 50% !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-}
-
-table th:first-of-type {
-    text-align: left;
-    width: 100%;
-}
-
-table td:first-of-type {
-    text-align: left;
-    width: 100%;
-}
-
-table th:nth-of-type(2) {
-    text-align: right;
-}
-
-table td:nth-of-type(2) {
-    text-align: right;
-}
-
-table td {
-    border: 0px !important;
-}
-
-table th {
-    border: 0px !important;
-}
-
-.qrcode {
-    border: 2px solid black;
-    display:inline-grid;
-}
-
-.qrlabel {
-    text-align: center;
-    margin-bottom: 1em !important;
-}
 
 @import "{{ site.theme }}";
 
