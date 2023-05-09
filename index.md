@@ -39,9 +39,11 @@ All proceeds go to the Dutchman Downs Pool
         ![menu](/menu/assets/images/qrmenu.png)
         <span class="qrlabel">Scan for menu</span>
     </span>
-    <span class="qrcode qrpay">
-        ![pay](/menu/assets/images/qrpay.png)
-        <span class="qrlabel">Scan to pay</span>
-    </span>
+    <a rel="noreferrer" href="https://venmo.com/u/ddsnackshack">
+        <span class="qrcode qrpay">
+            ![pay](/menu/assets/images/qrpay.png)
+            <span class="qrlabel">Scan to pay</span>
+        </span>
+    </a>
 </span>
 

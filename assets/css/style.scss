@@ -44,6 +44,10 @@ table td:nth-of-type(2) {
     margin-bottom: 1em !important;
 }
 
+.qrcontainer a {
+  color: black;
+}
+
 @media screen {
     .qrcontainer {
         display: grid !important;
@@ -80,9 +84,6 @@ table td:nth-of-type(2) {
         width: 100% !important;
         display: block;
         text-align: center;
-    }
-    .qrcontainer a {
-        color: black;
     }
     .qrmenu {
         margin: 4em;
