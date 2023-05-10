@@ -6,11 +6,7 @@
 |---------------------|-------|
 | Capri Sun           | $0.75 |
 | Water	              | $0.75 |
-| Coke                | $1.00 |
-| Diet Coke           | $1.00 |
-| Fresca              | $1.00 |
-| La Croix            | $1.00 |
-| Sprite              | $1.00 |
+| Soda<br/>&nbsp;&nbsp;Coke, Diet coke, Fresca,<br/>&nbsp;&nbsp;La Croix, Sprite | $1.00 |
 | Gatorade (large)    | $2.00 |
 
 **Snacks**
@@ -28,6 +24,7 @@
 | GoGurt              | $1.00 |
 | Airhead Extreme     | $2.00 |
 | Corn dog            | $2.00 |
+| Drumstick           | $2.00 |
 | Uncrustable         | $2.00 |
 
 All proceeds go to the Dutchman Downs Pool
@@ -37,12 +34,12 @@ All proceeds go to the Dutchman Downs Pool
 <span class="qrcontainer">
     <span class="qrcode qrmenu">
         ![menu](/menu/assets/images/qrmenu.png)
-        <span class="qrlabel">Scan for menu</span>
+        <span class="qrlabel">scan for menu</span>
     </span>
     <a rel="noreferrer" href="https://venmo.com/u/ddsnackshack">
         <span class="qrcode qrpay">
             ![pay](/menu/assets/images/qrpay.png)
-            <span class="qrlabel">Scan to pay</span>
+            <span class="qrlabel">scan to pay</span>
         </span>
     </a>
 </span>
