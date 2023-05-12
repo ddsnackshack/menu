@@ -7,7 +7,7 @@
 | Capri Sun           | $0.75 |
 | Water	              | $0.75 |
 | Soda<br/>&nbsp;&nbsp;Coke, Diet coke, Fresca,<br/>&nbsp;&nbsp;La Croix, Sprite | $1.00 |
-| Gatorade (large)    | $2.00 |
+| Gatorade            | $1.50 |
 
 **Snacks**
 
