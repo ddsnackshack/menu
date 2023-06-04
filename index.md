@@ -24,6 +24,7 @@
 | GoGurt              | $1.00 |
 | Ice cream bar       | $1.00 |
 | Ice cream sandwich  | $1.00 |
+| Popcorn             | $1.00 |
 | Airhead Extreme     | $2.00 |
 | Corn dog            | $2.00 |
 | Drumstick           | $2.00 |
