@@ -18,7 +18,7 @@
 | Chips (assorted)    | $0.75 |
 | Granola Bar         | $0.75 |
 | Oreos (2 cookies)   | $0.75 |
-| Pirates Booty       | $0.75 |
+| Pirate's Booty      | $0.75 |
 | Rice Krispie Treats | $0.75 |
 | Applesauce          | $1.00 |
 | Ice cream bar       | $1.00 |
