@@ -15,20 +15,20 @@
 |---------------------|-------|
 | Airhead             | $0.25 |
 | Ice pops            | $0.25 |
-| Granola Bar         | $0.50 |
 | Chips (assorted)    | $0.75 |
+| Granola Bar         | $0.75 |
 | Oreos (2 cookies)   | $0.75 |
 | Pirates Booty       | $0.75 |
 | Rice Krispie Treats | $0.75 |
 | Applesauce          | $1.00 |
-| GoGurt              | $1.00 |
 | Ice cream bar       | $1.00 |
 | Ice cream sandwich  | $1.00 |
 | Popcorn             | $1.00 |
-| Airhead Extreme     | $2.00 |
+| Airhead Extreme     | $1.50 |
 | Corn dog            | $2.00 |
 | Drumstick           | $2.00 |
 | Uncrustable         | $2.00 |
+| Personal pizza      | $3.00 |
 
 All proceeds go to the Dutchman Downs Pool
 
