@@ -3,18 +3,17 @@ name: Create pdf
 on:
   push:
     branches: ["main"]
-  pull_request:
   workflow_dispatch:
 
 jobs:
-  pdf:
+  create-pdf:
     runs-on: ubuntu-latest
     container:
       image: browserless/chrome
       options: --user root
     steps:
-#      - name: Wait
-#        run: sleep 10
+      - name: Wait
+        run: sleep 10
       - name: html to pdf
         run: |
           /usr/bin/google-chrome \
