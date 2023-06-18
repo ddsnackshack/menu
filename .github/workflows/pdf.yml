@@ -9,17 +9,19 @@ on:
 jobs:
   pdf:
     runs-on: ubuntu-latest
+    container:
+      image: browserless/chrome
     steps:
 #      - name: Wait
 #        run: sleep 10
       - name: html to pdf
-        uses: misaelnieto/web_to_pdf_action@master
-        with:
-          webPageURL: https://ddsnackshack.github.io/menu/
-          outputFile: ./menu.pdf
-          usePuppeteer: true
-          useScreen: false
-          #pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+        run: |
+          /usr/bin/google-chrome \
+            --no-sandbox \
+            --headless \
+            --disable-gpu \
+            --print-to-pdf=./menu.pdf \
+            https://ddsnackshack.github.io/menu/
       - uses: actions/upload-artifact@v3
         with:
           name: menu
