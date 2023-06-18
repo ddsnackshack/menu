@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: browserless/chrome
+      options: --user root
     steps:
 #      - name: Wait
 #        run: sleep 10
