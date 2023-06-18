@@ -3,6 +3,7 @@ name: Create pdf
 on:
   push:
     branches: ["main"]
+  pull_request:
   workflow_dispatch:
 
 jobs:
@@ -17,7 +18,7 @@ jobs:
           webPageURL: https://ddsnackshack.github.io/menu/
           outputFile: ./menu.pdf
           usePuppeteer: false
-          useScreen: true
+          useScreen: false
           #pdfOptions: '{"format": "Letter", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
       - uses: actions/upload-artifact@v3
         with:
