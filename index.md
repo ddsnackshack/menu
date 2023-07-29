@@ -24,9 +24,12 @@
 | Ice cream bar       | $1.00 |
 | Ice cream sandwich  | $1.00 |
 | Popcorn             | $1.00 |
+| Ring pop            | $1.00 |
 | Airhead Extreme     | $1.50 |
+| Ice cream sundae    | $1.50 |
 | Corn dog            | $2.00 |
 | Drumstick           | $2.00 |
+| Ice cream cookie<br/>sandwich (assorted) | $2.00 |
 | Uncrustable         | $2.00 |
 | Personal pizza      | $3.00 |
 
