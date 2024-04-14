@@ -4,33 +4,30 @@
 
 | item                      | price |
 |---------------------------|-------|
-| Capri Sun                 | $0.75 |
-| Water	                    | $0.75 |
-| Soda/La Croix             | $1.00 |
-| Gatorade                  | $1.50 |
+| Capri Sun                 | $1.00 |
+| Water	                    | $1.00 |
+| Soda/La Croix             | $1.50 |
+| Gatorade                  | $2.00 |
 
 **Snacks**
 
 | item                      | price |
 |---------------------------|-------|
-| Airhead                   | $0.25 |
-| Ice pops                  | $0.25 |
-| Chips                     | $0.75 |
-| Granola Bar               | $0.75 |
-| Oreos (2 cookies)         | $0.75 |
-| Rice Krispie Treats       | $0.75 |
-| Applesauce                | $1.00 |
-| Ice cream bar             | $1.00 |
-| Ice cream sandwich        | $1.00 |
-| Popcorn                   | $1.00 |
-| Ring pop                  | $1.00 |
-| Airhead Extreme           | $1.50 |
-| Ice cream sundae          | $1.50 |
-| Corn dog                  | $2.00 |
-| Drumstick                 | $2.00 |
-| Ice cream cookie sandwich | $2.00 |
-| Uncrustable               | $2.00 |
-| Personal pizza            | $3.00 |
+| Airhead                   | $0.50 |
+| Ice pops                  | $0.50 |
+| Chips                     | $1.00 |
+| Oreos (2 cookies)         | $1.00 |
+| Rice Krispie Treats       | $1.00 |
+| Ice cream bar             | $1.50 |
+| Ice cream sandwich        | $1.50 |
+| Popcorn                   | $2.00 |
+| Ring pop                  | $1.50 |
+| Airhead Extreme           | $2.00 |
+| Corn dog                  | $3.00 |
+| Drumstick                 | $2.50 |
+| Ice cream cookie sandwich | $2.50 |
+| Uncrustable               | $2.50 |
+| Personal pizza            | $4.00 |
 
 All proceeds go to the Dutchman Downs Pool
 
