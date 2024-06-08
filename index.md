@@ -15,7 +15,7 @@
 |---------------------------|-------|
 | Airhead                   | $0.50 |
 | Ice pops                  | $0.50 |
-| Small Oreo cookie pack    | $0.50 |
+| Small cookie pack         | $0.50 |
 | Chips                     | $1.00 |
 | Large Oreos               | $1.00 |
 | NutriGrain bar            | $1.00 |
