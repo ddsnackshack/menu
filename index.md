@@ -15,17 +15,19 @@
 |---------------------------|-------|
 | Airhead                   | $0.50 |
 | Ice pops                  | $0.50 |
+| Small Oreo cookie pack    | $0.50 |
 | Chips                     | $1.00 |
+| Large Oreos               | $1.00 |
 | NutriGrain bar            | $1.00 |
-| Oreos (2 cookies)         | $1.00 |
 | Rice Krispie Treats       | $1.00 |
 | Ring pop                  | $1.00 |
-| Ice cream bar             | $1.50 |
-| Ice cream sandwich        | $1.50 |
+| Specialty popsicles       | $1.00 |
+| Ice cream bar/sandwich    | $1.50 |
 | Airhead Extreme           | $2.00 |
+| Nut/cheese packs          | $2.00 |
 | Popcorn                   | $2.00 |
-| Drumstick                 | $2.50 |
-| Ice cream cookie sandwich | $2.50 |
+| Specialty ice cream       | $2.50 |
+| Breakfast sandwich        | $3.00 |
 | Corn dog                  | $3.00 |
 | Personal pizza            | $4.00 |
 
